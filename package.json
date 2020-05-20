@@ -1,11 +1,12 @@
 {
   "name": "code-split",
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "core-js": "^3.6.4",
@@ -24,7 +25,8 @@
     "eslint-plugin-vue": "^6.2.2",
     "lint-staged": "^9.5.0",
     "prettier": "^1.19.1",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "semantic-release": "^17.0.7"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
@@ -34,5 +36,9 @@
       "vue-cli-service lint",
       "git add"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishowman/vue-best-practice.git"
   }
 }

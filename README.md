@@ -22,3 +22,18 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+# vue
+## dynamic component
+## .sync
+
+# performance
+## dll
+## code split
+## vue config file
+
+# funny apis
+## resizeObserver
+## mutationObserver
