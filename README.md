@@ -23,8 +23,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
-
+# github release action doc
+https://github.com/semantic-release/semantic-release/blob/master/docs/recipes/github-actions.md
 # vue
 ## dynamic component
 ## .sync
