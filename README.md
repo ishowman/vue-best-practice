@@ -1,5 +1,7 @@
 # code-split
 
+![Release](https://github.com/ishowman/vue-best-practice/workflows/Release/badge.svg)
+
 ## Project setup
 ```
 npm install
